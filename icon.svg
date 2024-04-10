@@ -1,3 +1,132 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="256" height="256" version="1.1" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"><g stroke="#680071"><path d="m77.011 14.144a72.277 72.277 0 0 0-50.982 21.056l-0.0056-0.0056-0.12033 0.11845a72.109 72.109 0 0 0 2e-6 101.98l0.11845 0.11845-0.11845 0.11845 51.108 51.108-0.11845 0.12032 51.108 51.108 102.1-102.1a72.109 72.109 0 0 0-1e-5 -101.98l-0.12033-0.11844 0.12033-0.12033a72.277 72.277 0 0 0-102.09-0.11095l-7e-3 -0.0076 0.11845-0.12033a72.277 72.277 0 0 0-51.108-21.168z" fill="#bf00d1" stroke-linecap="round" stroke-width="9.6263" style="paint-order:stroke fill markers"/><text transform="matrix(13.825 0 0 13.825 -1710.9 -1367.5)" x="132.93607" y="111.72287" fill="#ff95f2" font-family="'Comic Sans MS'" stroke-linejoin="round" stroke-width=".30487" text-align="center" text-anchor="middle" style="inline-size:9.87213;line-height:0.8;paint-order:stroke fill markers;white-space:pre" xml:space="preserve"><tspan x="132.93607" y="111.72287"><tspan font-size="12px" font-weight="bold">C</tspan></tspan></text></g></svg>
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="icon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="false"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#2b2b2b"
+     inkscape:document-units="px"
+     shape-rendering="auto"
+     inkscape:clip-to-page="false"
+     labelstyle="default"
+     showborder="true"
+     showguides="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="97.227182"
+     inkscape:cy="140.3607"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="507"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect12"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,60.433815,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,60.433815,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect10"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,60.292763,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,60.29277,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="fill:#bf00d1;fill-opacity:1;fill-rule:nonzero;stroke:#680071;stroke-width:9.62628;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;stroke-linejoin:miter;stroke-linecap:round"
+       d="m 77.011274,14.143563 a 72.277252,72.277252 0 0 0 -50.98164,21.055593 l -0.0056,-0.0056 -0.120328,0.118448 a 72.108566,72.108566 0 0 0 2e-6,101.978326 l 0.118447,0.11845 -0.118449,0.11845 51.107612,51.10761 -0.118449,0.12032 51.107621,51.10761 50.98916,-50.98915 50.98728,-50.98728 0.12033,-0.12033 a 72.108558,72.108558 0 0 0 -1e-5,-101.976456 l -0.12033,-0.118445 0.12033,-0.120328 A 72.277252,72.277252 0 0 0 128.00798,35.439834 l -0.007,-0.0076 0.11845,-0.120328 A 72.277252,72.277252 0 0 0 77.011274,14.143563 Z" />
+    <text
+       xml:space="preserve"
+       style="line-height:0.8;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS';text-align:center;text-anchor:middle;white-space:pre;inline-size:9.87213;display:inline;fill:#ff95f2;fill-opacity:1;fill-rule:nonzero;stroke:#680071;stroke-width:0.304874;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       x="132.93607"
+       y="111.72287"
+       id="text12"
+       transform="matrix(13.825228,0,0,13.825228,-1710.9308,-1367.548)"><tspan
+         x="132.93607"
+         y="111.72287"
+         id="tspan2"><tspan
+           style="font-weight:bold;font-size:12px;-inkscape-font-specification:'Comic Sans MS, Bold'"
+           id="tspan1">C</tspan></tspan></text>
+  </g>
+</svg>
